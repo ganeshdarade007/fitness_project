@@ -1,0 +1,17 @@
+Food_Item,Calories,Protein,Category,Goal
+Eggs (3 whole),210,18,Breakfast,Weight Gain
+Oatmeal with Milk,300,12,Breakfast,Weight Loss
+Poha (1 plate),250,5,Breakfast,Weight Loss
+Upma (1 plate),260,6,Breakfast,Weight Loss
+Chicken Breast (200g),330,62,Lunch,Weight Loss
+Dal Tadka & Rice,380,11,Lunch,Weight Loss
+Paneer Bhurji (150g) & 2 Roti,450,22,Lunch,Weight Gain
+Mutton Curry & 2 Roti,600,35,Lunch,Weight Gain
+Mixed Green Salad,80,2,Snack,Weight Loss
+Almonds & Walnuts (Handful),170,6,Snack,Weight Gain
+Sprouted Moong Chaat,150,9,Snack,Weight Loss
+Protein Shake,200,25,Snack,Weight Gain
+Grilled Fish,250,40,Dinner,Weight Loss
+Khichdi & Ghee,320,8,Dinner,Weight Loss
+Paneer Tikka & Paratha,550,25,Dinner,Weight Gain
+Chicken Biryani (1 plate),650,30,Dinner,Weight Gain
